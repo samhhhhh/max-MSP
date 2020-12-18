@@ -1,0 +1,3 @@
+0, poop;
+1, pee;
+2, diarrhea;
